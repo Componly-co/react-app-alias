@@ -13,6 +13,7 @@ jobs:
       matrix:
         workspaces:
           - ./packages/react-app-alias-ex
+          - ./example/main
 
     continue-on-error: true
 
